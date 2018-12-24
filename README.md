@@ -1,5 +1,5 @@
 # Best-Indians.github.io
-# This repository hosts the web page which is supposed to replace the website of Best Indians! at sites.google.com/view/bestindianscr.
+This repository hosts the web page which is supposed to replace the website of Best Indians! at sites.google.com/view/bestindianscr.
 Best Indians! - A Voluntary Gaming Community
 Leader - Ayudh Khajne
 
