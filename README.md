@@ -3,7 +3,7 @@ This repository hosts the web page which is supposed to replace the website of B
 
 Best Indians! - A Voluntary Gaming Community
 
-Leader - Ayudh Khajne
+Leader - AK- THE QUARK!✨
 
 ◽We are the Warriors🔹We battle for Glory🔸We seek higher potential & lower entropy◾
 
