@@ -1,4 +1,6 @@
-
+---
+title: Best Indians!
+---
 # BEST INDIANS!
 
 ### ◽We are the Warriors🔹We battle for Glory🔸We seek higher potential & lower entropy◾
